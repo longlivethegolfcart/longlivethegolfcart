@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @longlivethegolfcart
 - 👀 I’m interested in data journalism, and finding better ways to communicate.
-- 📺 TV Producer for a living, data nerd professionally
-- 🌱 I’m currently learning R, Markdown, Python (half-heartedly), and a loose background in HTML/CSS
-- 💞️ I’m looking to collaborate on Tidbyt projects or ways to showcase data in a way for people to understand
-- 📫 Send me an email: contact[at]alexanderpopichak[dot]com
+- 📺 TV Producer for a living, data nerd recreationally
+- 🌱 Trying to teach myself R, Starlark, and I have a loose background in HTML/CSS
+- 💞️ I’m looking to collaborate on data via, find stories in data, and mess with Tidbyt projects
+- 📫 Send me an email: alex[dot]popichak[at]gmail[dot]com
 
 <!---
 longlivethegolfcart/longlivethegolfcart is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
