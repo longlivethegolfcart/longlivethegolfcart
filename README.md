@@ -2,7 +2,7 @@
 - 👀 I’m interested in data journalism, and finding better ways to communicate.
 - 📺 TV Producer for a living, data nerd recreationally
 - 🌱 Trying to teach myself R, Starlark, and I have a loose background in HTML/CSS
-- 💞️ I’m looking to collaborate on data via, find stories in data, and mess with Tidbyt projects
+- 💞️ I’m looking to collaborate on data viz, find stories in data, and mess with Tidbyt and HomeAssistant projects
 - 📫 Send me an email: alex[dot]popichak[at]gmail[dot]com
 
 <!---
